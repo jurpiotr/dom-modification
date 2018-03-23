@@ -42,6 +42,7 @@ five = () => {
     body.appendChild(newDiv);
 }
 // A0.6 - wstaw diva Z przed A
+
 // A0.7 - wstaw diva z napisem Brake pomiędzy A i B oraz B i C
 // A0.8 - wstaw do srodka diva B liste <ul></ul>
 // A0.9 - wstaw do diva C sklonowane divy A, B, C
